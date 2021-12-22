@@ -10,4 +10,4 @@ Hi guys. I'm **0xPoo**, a backend and low level developer. Into blockchain, embe
 
 
 ---
-[0xPoo]](https://github.com/0xPoo)
+[0xPoo](https://github.com/0xPoo)
